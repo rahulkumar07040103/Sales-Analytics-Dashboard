@@ -6,10 +6,10 @@ The objective of this project is to analyze mobile sales data to monitor sales p
 - <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Mobile%20Sales%20Data.xlsx">Dataset</a>
 
 ## Dashboard
-<a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20212945.png"> 
-  <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20213004.png"> 
-  <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20213004.png">
-  Dashboard</a>
+<a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20212945.png"> Dashboard1</a>
+  <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20213004.png"> Dashboard2</a>
+  <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20213004.png">Dashboard3</a>
+ 
 
 
 
