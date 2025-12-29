@@ -7,6 +7,8 @@ The objective of this project is to analyze mobile sales data to monitor sales p
 
 ## Dashboard
 <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20212926.png"> Dashboard1</a>
+
   <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20212945.png"> Dashboard2</a>
+  
   <a href="https://github.com/rahulkumar07040103/Sales-Analytics-Dashboard/blob/main/Screenshot%202025-06-17%20213004.png">Dashboard3</a>
  
